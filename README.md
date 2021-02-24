@@ -1,4 +1,5 @@
 # Unity-Procedural-Gun-Movement
 Multifunctional movement animation for Fps Gun in one script.
-
+this script adds to weapon mesh (delay effect , weapon bob, rotate effect, sprint effect) 
 This script written by witnn, if you use in your games or you show on your youtube videos, you can just send thanks to me :D...
+Goodbye...
